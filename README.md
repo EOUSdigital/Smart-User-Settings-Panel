@@ -3,7 +3,7 @@
 ## 📝 Step 4: Project Challenge – Logical Assignment
 
 ### 🎯 Challenge Objective
-Create a mini module that simulates a user preferences panel. You'll apply logical assignment operators (`||=`, `&&=`, `??=`) to initialize and modify values conditionally.
+Create a mini module that simulates a user preferences panel. We will apply logical assignment operators (`||=`, `&&=`, `??=`) to initialize and modify values conditionally.
 
 ---
 ### 🛠️ Project Requirements
